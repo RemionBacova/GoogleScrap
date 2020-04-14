@@ -118,9 +118,19 @@ namespace GoogleAPI_Search
                     {
                         string SrcToDownload = srcValue.Replace(@"/imgres?imgurl=", "");
                         SrcToDownload = SrcToDownload.Substring(0, SrcToDownload.IndexOf('&'));
+                        try
+                        {
+                            if (!File.Exists(@"E:\images\" + Product + "_" + i.ToString() + ".png"))
+                            {
+                                client.DownloadFile(SrcToDownload, @"E:\images\" + Product + "_" + i.ToString() + ".png");
+                                i++;
+                            }
+                        }
+                        catch
+                        {
 
-                        client.DownloadFile(SrcToDownload, @"E:\images\" + Product + "_" + i.ToString() + ".png");
-                        i++;
+                        }
+                        
                     }
 
                 }

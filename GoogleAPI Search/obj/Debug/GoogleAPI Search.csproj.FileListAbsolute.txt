@@ -16,3 +16,21 @@ E:\NopCommerce Project\GraberProj\GoogleAPI Search\GoogleAPI Search\obj\Debug\Go
 E:\NopCommerce Project\GraberProj\GoogleAPI Search\GoogleAPI Search\obj\Debug\GoogleAPI Search.exe
 E:\NopCommerce Project\GraberProj\GoogleAPI Search\GoogleAPI Search\obj\Debug\GoogleAPI Search.pdb
 E:\NopCommerce Project\GraberProj\GoogleAPI Search\GoogleAPI Search\obj\Debug\GoogleAPI Search.csprojAssemblyReference.cache
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\GoogleAPI Search.exe.config
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\GoogleAPI Search.exe
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\GoogleAPI Search.pdb
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\BouncyCastle.Crypto.dll
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\HtmlAgilityPack.dll
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\Newtonsoft.Json.dll
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\BouncyCastle.Crypto.xml
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\HtmlAgilityPack.pdb
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\HtmlAgilityPack.xml
+E:\GIT\GoogleScrap\GoogleAPI Search\bin\Debug\Newtonsoft.Json.xml
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI Search.csprojAssemblyReference.cache
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI_Search.Form1.resources
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI_Search.Properties.Resources.resources
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI Search.csproj.GenerateResource.cache
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI Search.csproj.CoreCompileInputs.cache
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI Search.csproj.CopyComplete
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI Search.exe
+E:\GIT\GoogleScrap\GoogleAPI Search\obj\Debug\GoogleAPI Search.pdb
